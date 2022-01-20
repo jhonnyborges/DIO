@@ -1,8 +1,16 @@
 #title, .subtitle, .post_title {
-    color: blue;
+    color: #000;
 }
 
 .post_title {
     font-size: 16px;
     font-style: italic;
+}
+
+.img-perfil{
+    border-radius: 50%;
+}
+
+.img-post{
+    border-radius: 5%;
 }
